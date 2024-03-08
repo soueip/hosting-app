@@ -1,0 +1,23 @@
+{
+  "name": "mosihfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elkadhi-oussama/Website--HTML-CSS-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elkadhi-oussama/Website--HTML-CSS-/issues"
+  },
+  "homepage": "https://github.com/elkadhi-oussama/Website--HTML-CSS-#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
